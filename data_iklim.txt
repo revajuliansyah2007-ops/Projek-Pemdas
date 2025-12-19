@@ -1,0 +1,13 @@
+Bulan,Suhu_Rata,Suhu_Max,Suhu_Min,Curah_Hujan
+Januari,27.3,30.2,24.3,297
+Februari,27.3,30.3,24.3,248
+Maret,27.6,30.6,24.5,198
+April,28.1,31.4,24.9,105
+Mei,28.6,32.4,25.0,61
+Juni,28.1,32.1,24.2,17
+Juli,27.6,31.9,23.3,9
+Agustus,27.6,32.0,23.3,4
+September,28.5,33.0,24.0,18
+Oktober,28.9,32.9,24.8,56
+November,28.4,32.2,24.8,158
+Desember,27.7,30.8,24.6,251
